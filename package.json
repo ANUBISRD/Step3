@@ -1,0 +1,20 @@
+{
+    "name": "phasergame1",
+    "version": "1.0.0",
+    "description": "Building good structure",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "serve": "live-server .",
+        "start": "live-server --port=8000"
+    },
+    "repository": {
+        "type": "git",
+        "url": "PhaserGameStructure"
+    },
+    "author": "Rage",
+    "license": "ISC",
+    "dependencies": {
+        "phaser": "^3.7.1"
+    }
+}
